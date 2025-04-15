@@ -1,5 +1,5 @@
 # Endpoint-Finder
-![EndpointFinder Banner]()
+![EndpointFinder Banner](https://raw.githubusercontent.com/ZeroMAN555/Endpoint-Finder/refs/heads/main/screenshot.png)
 A powerful browser-based tool for discovering URLs and endpoints on web pages.
 
 ## 🌟 Overview
