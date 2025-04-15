@@ -1,5 +1,5 @@
 # Endpoint-Finder
-![EndpointFinder Banner](https://raw.githubusercontent.com/ZeroMAN555/Endpoint-Finder/refs/heads/main/bann.png)
+![EndpointFinder Banner](https://raw.githubusercontent.com/ZeroMAN555/Endpoint-Finder/refs/heads/main/banner.png)
 A powerful browser-based tool for discovering URLs and endpoints on web pages.
 
 ## 🌟 Overview
@@ -8,6 +8,7 @@ EndpointFinder is a JavaScript bookmarklet that helps security researchers, web 
 
 ## ✨ Features
 
+![EndpointFinder](https://raw.githubusercontent.com/ZeroMAN555/Endpoint-Finder/refs/heads/main/screenshot.png)
 - **Real-time scanning** of the current web page
 - **Categorizes endpoints** into four types:
   - 🔌 API Endpoints
